@@ -1,0 +1,12 @@
+google-api-python-client
+python-telegram-bot
+requests
+testresources
+oauth2client
+progress
+progressbar2
+httplib2shim
+google_auth_oauthlib
+google-auth-httplib2
+tenacity
+python-magic
