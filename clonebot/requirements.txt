@@ -10,3 +10,5 @@ google_auth_oauthlib
 google-auth-httplib2
 tenacity
 python-magic
+pyfiglet==0.8.post1
+rich==10.6.0
